@@ -94,3 +94,5 @@ buffer 属性指向创建该 Buffer 的底层的 ArrayBuffer 对象。
 ### buf.swap64()
 
 ### buf.toJSON()
+
+### buf.slice([start[, end]])
